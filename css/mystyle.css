@@ -1,0 +1,46 @@
+.myhomepageheader {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: royalblue;
+}
+.backgroundimage {
+    background-image: url('../assets/img/portfolio/BackgroundMain.jpeg');
+    background-position: center;
+}
+.nav {
+    padding-bottom: 0; 
+    --bs-bg-opacity: 0
+}
+.bcolor {
+    background-color: white;
+}
+.royal {
+    color: royalblue;
+}
+
+.aboutmebackground {
+    background-image: url('../assets/img/portfolio/houseStaircase.jpeg');
+    background-position: top;
+}
+.a:hover {
+    color: black;
+}
+.navigationabout {
+    padding-bottom: 0.5cm;
+    background-color: royalblue;
+    --bs-bg-opacity: 1;
+}
+.subheadmove {
+    right: 500px;
+}
+.white  {
+    color: white;
+}
+.date {
+    color: white;
+    font-weight: bold;
+}
+ol {
+    font-size: larger;
+    color: white;
+}
