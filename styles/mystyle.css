@@ -4,7 +4,7 @@
     color: royalblue;
 }
 .backgroundimage {
-    background-image: url('../assets/img/portfolio/BackgroundMain.jpeg');
+    background-image: url('../images/images/portfolio/BackgroundMain.jpeg');
     background-position: center;
 }
 .nav {
@@ -19,7 +19,7 @@
 }
 
 .aboutmebackground {
-    background-image: url('../assets/img/portfolio/houseStaircase.jpeg');
+    background-image: url('../images/images/portfolio/houseStaircase.jpeg');
     background-position: top;
 }
 .a:hover {
@@ -43,4 +43,13 @@
 ol {
     font-size: larger;
     color: white;
+}
+.picture {
+    height: 20cm;
+    width: 25cm;
+    padding-left: 5cm;
+    padding-bottom: 2cm;
+}
+.ab:hover {
+    color: lightgreen;
 }
